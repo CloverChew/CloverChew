@@ -8,10 +8,10 @@
 
 <br/>
 
-#### 📡 Tech Stacks
+### 📡 Tech Stacks
 <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=black"> <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge"> <img src="https://img.shields.io/badge/PowerBI-FFA500?style=for-the-badge&logo=Power%20BI&logoColor=white"/> <img src="https://img.shields.io/badge/microsoft%20azure-3CCBF4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 
-#### 🎨 Creative Tools
+### 🎨 Creative Tools
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Framer-E63946?style=for-the-badge&logo=framer&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Adobe%20XD-eb69e4?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"> 
 
 
